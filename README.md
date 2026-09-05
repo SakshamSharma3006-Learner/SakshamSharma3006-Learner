@@ -43,13 +43,19 @@ Modern and responsive navigation menu built with HTML, CSS and JavaScript.
 
 ---
 
+## 📊 GitHub 
 ## 📊 GitHub Stats
 
-<p>
-<img src="https://github-readme-stats.vercel.app/api?username=SakshamSharma3006-Learner&show_icons=true&theme=dark" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SakshamSharma3006-Learner&show_icons=true&theme=dark&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SakshamSharma3006-Learner&layout=compact&theme=dark&hide_border=true" height="170"/>
 </p>
 
----
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=SakshamSharma3006-Learner&theme=dark&hide_border=true"/>
+</p>
 
 ## 🌐 Connect With Me
 
