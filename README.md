@@ -72,11 +72,8 @@ responsive, interactive and user-friendly web applications.
 ## 📊 GitHub Stats
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=SakshamSharma3006-Learner&show_icons=true&theme=dark&hide_border=true&count_private=true" height="170">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SakshamSharma3006-Learner&layout=compact&theme=dark&hide_border=true" height="170">
-
+  <img src="https://github-readme-stats.vercel.app/api?username=SakshamSharma3006-Learner&show_icons=true&theme=dark&hide_border=true" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SakshamSharma3006-Learner&layout=compact&theme=dark&hide_border=true" width="48%">
 </p>
 
 ---
