@@ -18,7 +18,7 @@ responsive, interactive and user-friendly web applications.
 
 <p align="left">
 
-<a href="YOUR_LINKEDIN_LINK">
+<a href="https://www.linkedin.com/in/saksham-sharma-671519384">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
@@ -27,8 +27,6 @@ responsive, interactive and user-friendly web applications.
 </a>
 
 </p>
-
----
 
 ## 💻 Tech Stack
 
