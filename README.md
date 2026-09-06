@@ -1,38 +1,13 @@
-## 👤 About Me
+👋 Hi there!
+🛸 About Me
+I'm a BCA student and aspiring web developer passionate about building responsive, interactive and user-friendly web applications.
 
-<table>
-<tr>
-<td width="60%">
-
-### 👋 Hey! I'm Saksham
-
-I'm a **BCA student & aspiring web developer** passionate about creating **responsive, interactive and user-friendly web applications**.
-
-I love transforming ideas into working projects and exploring technologies that help me build better digital experiences.
-
-🎓 **BCA Student**  
-💻 **Aspiring Web Developer**  
-🌐 **Front-End Development**  
-🧠 **JavaScript & Python Learner**  
-🚀 **Real-World Project Builder**  
-🎯 **Future Full Stack Developer**
-
-</td>
-
-<td width="40%">
-
-```text
-🚀 CURRENTLY
-━━━━━━━━━━━━━━━━
 🎓 BCA Student
-💻 Web Development
-🧠 JavaScript
-🐍 Python
-🛠️ Building Projects
-🎯 Full Stack Journey
-
-━━━━━━━━━━━━━━━━
-✨ Code • Create • Learn
+💻 Aspiring Web Developer
+🌐 Front-End Development
+🧠 Learning JavaScript & Python
+🚀 Building real-world projects
+🎯 Working towards becoming a Full Stack Developer
 
 ---
 
