@@ -30,7 +30,7 @@ responsive, interactive and user-friendly web applications.
 </a>
 
 </p>
-----
+
 ## 💻 Tech Stack
 
 <p align="left">
