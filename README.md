@@ -19,7 +19,7 @@ I'm a BCA student and aspiring web developer passionate about building responsiv
 <a href="https://www.linkedin.com/in/saksham-sharma-671519384">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
-<a href="sakshamsharma3016@gmail.com">
+<a href="sakshamsudhir2006@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
