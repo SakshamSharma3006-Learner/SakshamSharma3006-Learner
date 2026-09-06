@@ -97,19 +97,3 @@ responsive, interactive and user-friendly web applications.
 ```text
 Learn → Build → Test → Improve → Repeat 🔁
 ---
-
-## 🧊 3D Contribution Activity
-
-<p align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%">
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/SakshamSharma3006-Learner/SakshamSharma3006-Learner/output/github-contribution-grid-snake-dark.svg" width="100%">
-</p>
-
----
