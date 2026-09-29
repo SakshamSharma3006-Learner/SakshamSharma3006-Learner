@@ -393,8 +393,8 @@ alt="GitHub Streak"
 <p align="center">
 
 <img
-src="https://github-readme-activity-graph.vercel.app/graph?username=SakshamSharma3006-Learner&bg_color=000000&color=ffffff&line=ff6a00&point=ffffff&area=true&hide_border=true"
-alt="GitHub Activity Graph"
+src="https://github-readme-activity-graph.vercel.app/graph?username=SakshamSharma3006-Learner&bg_color=000000&color=ffffff&line=ff6a00&point=ff6a00&area=true&area_color=ff6a00&hide_border=true&custom_title=Saksham%20Sharma's%20GitHub%20Activity"
+alt="Saksham Sharma GitHub Activity Graph"
 />
 
 </p>
