@@ -31,7 +31,7 @@ interactive and user-friendly web experiences.
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://instagram.com/">
+<a href="https://www.instagram.com/">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
@@ -52,25 +52,17 @@ interactive and user-friendly web experiences.
 <p align="left">
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
 <br>
 
 <img src="https://img.shields.io/badge/C-6C3483?style=for-the-badge&logo=c&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/MySQL-00897B?style=for-the-badge&logo=mysql&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/GitHub-F05032?style=for-the-badge&logo=github&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 
 </p>
@@ -82,77 +74,279 @@ interactive and user-friendly web experiences.
 <table>
 <tr>
 
-<td width="20%" align="center">
+<td width="33%" align="center">
 
-### ☁️
+## 🌐 Portfolio
 
-### Weather
-### Dashboard
-
-A responsive weather app that shows real-time weather information.
+A modern personal portfolio website showcasing my skills, projects, achievements and journey.
 
 <br>
 
-`HTML` • `CSS` • `JS`
+`HTML` • `CSS` • `JavaScript`
+
+<br><br>
+
+<a href="https://sakshamsharma3006-learner.github.io/PORTFOLIO/">
+<img src="https://img.shields.io/badge/🟠%20LIVE%20DEMO-ff6a00?style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/SakshamSharma3006-Learner/PORTFOLIO">
+<img src="https://img.shields.io/badge/📂%20SOURCE%20CODE-222222?style=for-the-badge"/>
+</a>
 
 </td>
 
-<td width="20%" align="center">
+<td width="33%" align="center">
 
-### ❌⭕
- 
-### Tic Tac Toe
-### Game
+## ☁️ Weather Dashboard
 
-A fun and interactive tic tac toe game for two players.
+A responsive weather application that displays weather information with a clean and user-friendly interface.
 
 <br>
 
-`HTML` • `CSS` • `JS`
+`HTML` • `CSS` • `JavaScript`
+
+<br><br>
+
+<a href="https://sakshamsharma3006-learner.github.io/WEATHER-DASHBOARD/">
+<img src="https://img.shields.io/badge/🟠%20LIVE%20DEMO-ff6a00?style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/SakshamSharma3006-Learner/WEATHER-DASHBOARD">
+<img src="https://img.shields.io/badge/📂%20SOURCE%20CODE-222222?style=for-the-badge"/>
+</a>
 
 </td>
 
-<td width="20%" align="center">
+<td width="33%" align="center">
 
-### ⏱️
+## ❌⭕ Tic Tac Toe
 
-### Stopwatch
-
-A responsive stopwatch web app with start, pause, reset & lap features.
+A fun and interactive two-player Tic Tac Toe game built using JavaScript.
 
 <br>
 
-`HTML` • `CSS` • `JS`
+`HTML` • `CSS` • `JavaScript`
+
+<br><br>
+
+<a href="https://sakshamsharma3006-learner.github.io/TIC-TAC-TOE-GAME/">
+<img src="https://img.shields.io/badge/🟠%20LIVE%20DEMO-ff6a00?style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/SakshamSharma3006-Learner/TIC-TAC-TOE-GAME">
+<img src="https://img.shields.io/badge/📂%20SOURCE%20CODE-222222?style=for-the-badge"/>
+</a>
 
 </td>
 
-<td width="20%" align="center">
+</tr>
 
-### ☰
+<tr>
 
-### Interactive
-### Navigation Menu
+<td width="33%" align="center">
 
-A modern and responsive navigation menu with smooth animations.
+## ⏱️ Stopwatch
+
+A responsive stopwatch web application with start, pause, reset and lap features.
 
 <br>
 
-`HTML` • `CSS` • `JS`
+`HTML` • `CSS` • `JavaScript`
+
+<br><br>
+
+<a href="https://sakshamsharma3006-learner.github.io/STOP-WATCH/">
+<img src="https://img.shields.io/badge/🟠%20LIVE%20DEMO-ff6a00?style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/SakshamSharma3006-Learner/STOP-WATCH">
+<img src="https://img.shields.io/badge/📂%20SOURCE%20CODE-222222?style=for-the-badge"/>
+</a>
 
 </td>
 
-<td width="20%" align="center">
+<td width="33%" align="center">
 
-### ✈️
+## ☰ Interactive Navigation
 
-### Travel
-### Planner
-
-Plan your trips easily with a simple and user-friendly interface.
+A modern responsive navigation menu with smooth animations and interactive elements.
 
 <br>
 
-`HTML` • `CSS` • `JS`
+`HTML` • `CSS` • `JavaScript`
+
+<br><br>
+
+<a href="https://sakshamsharma3006-learner.github.io/INTERACTIVE-NAVIGATION-MENU/">
+<img src="https://img.shields.io/badge/🟠%20LIVE%20DEMO-ff6a00?style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/SakshamSharma3006-Learner/INTERACTIVE-NAVIGATION-MENU">
+<img src="https://img.shields.io/badge/📂%20SOURCE%20CODE-222222?style=for-the-badge"/>
+</a>
+
+</td>
+
+<td width="33%" align="center">
+
+## ✈️ Travel Planner
+
+A simple and user-friendly travel planning interface for organizing trips easily.
+
+<br>
+
+`HTML` • `CSS` • `JavaScript`
+
+<br><br>
+
+<a href="https://sakshamsharma3006-learner.github.io/TRAVEL-PLANNER/">
+<img src="https://img.shields.io/badge/🟠%20LIVE%20DEMO-ff6a00?style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/SakshamSharma3006-Learner/TRAVEL-PLANNER">
+<img src="https://img.shields.io/badge/📂%20SOURCE%20CODE-222222?style=for-the-badge"/>
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="33%" align="center">
+
+## 🧮 Pro Calculator
+
+A clean and responsive calculator with an attractive user interface and interactive operations.
+
+<br>
+
+`HTML` • `CSS` • `JavaScript`
+
+<br><br>
+
+<a href="https://sakshamsharma3006-learner.github.io/PRO-CALCULATOR/">
+<img src="https://img.shields.io/badge/🟠%20LIVE%20DEMO-ff6a00?style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/SakshamSharma3006-Learner/PRO-CALCULATOR">
+<img src="https://img.shields.io/badge/📂%20SOURCE%20CODE-222222?style=for-the-badge"/>
+</a>
+
+</td>
+
+<td width="33%" align="center">
+
+## ✊ Rock Paper Scissors
+
+A simple interactive Rock Paper Scissors game with JavaScript-based game logic.
+
+<br>
+
+`HTML` • `CSS` • `JavaScript`
+
+<br><br>
+
+<a href="https://sakshamsharma3006-learner.github.io/ROCK-PAPER-SCISSORS/">
+<img src="https://img.shields.io/badge/🟠%20LIVE%20DEMO-ff6a00?style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/SakshamSharma3006-Learner/ROCK-PAPER-SCISSORS">
+<img src="https://img.shields.io/badge/📂%20SOURCE%20CODE-222222?style=for-the-badge"/>
+</a>
+
+</td>
+
+<td width="33%" align="center">
+
+## 🧠 Quiz Trivia
+
+An interactive three-level technology quiz designed to test programming and technical knowledge.
+
+<br>
+
+`HTML` • `CSS` • `JavaScript`
+
+<br><br>
+
+<a href="https://sakshamsharma3006-learner.github.io/TECH-QUIZ-TRIVIA/">
+<img src="https://img.shields.io/badge/🟠%20LIVE%20DEMO-ff6a00?style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/SakshamSharma3006-Learner/TECH-QUIZ-TRIVIA">
+<img src="https://img.shields.io/badge/📂%20SOURCE%20CODE-222222?style=for-the-badge"/>
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="33%" align="center">
+
+## 📝 HTML Forms
+
+A clean HTML form project demonstrating different form controls and user input elements.
+
+<br>
+
+`HTML` • `CSS`
+
+<br><br>
+
+<a href="https://sakshamsharma3006-learner.github.io/Html-Forms/">
+<img src="https://img.shields.io/badge/🟠%20LIVE%20DEMO-ff6a00?style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/SakshamSharma3006-Learner/Html-Forms">
+<img src="https://img.shields.io/badge/📂%20SOURCE%20CODE-222222?style=for-the-badge"/>
+</a>
+
+</td>
+
+<td width="33%" align="center">
+
+## 🎓 Student Management
+
+A basic student management interface designed to practice web development concepts.
+
+<br>
+
+`HTML` • `CSS` • `JavaScript`
+
+<br><br>
+
+<a href="https://sakshamsharma3006-learner.github.io/STUDENT-MANAGEMENT-SYSTEM/">
+<img src="https://img.shields.io/badge/🟠%20LIVE%20DEMO-ff6a00?style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/SakshamSharma3006-Learner/STUDENT-MANAGEMENT-SYSTEM">
+<img src="https://img.shields.io/badge/📂%20SOURCE%20CODE-222222?style=for-the-badge"/>
+</a>
+
+</td>
+
+<td width="33%" align="center">
+
+## ✅ To-Do App
+
+A simple task management application for adding, completing and managing daily tasks.
+
+<br>
+
+`HTML` • `CSS` • `JavaScript`
+
+<br><br>
+
+<a href="https://sakshamsharma3006-learner.github.io/TO-DO-APP/">
+<img src="https://img.shields.io/badge/🟠%20LIVE%20DEMO-ff6a00?style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/SakshamSharma3006-Learner/TO-DO-APP">
+<img src="https://img.shields.io/badge/📂%20SOURCE%20CODE-222222?style=for-the-badge"/>
+</a>
 
 </td>
 
@@ -163,59 +357,21 @@ Plan your trips easily with a simple and user-friendly interface.
 
 # 📊 GitHub Stats:
 
-<table>
-<tr>
+<p align="center">
 
-<td width="33%">
+<img 
+src="https://github-readme-stats.vercel.app/api?username=SakshamSharma3006-Learner&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=000000&title_color=ff6a00&text_color=ffffff&icon_color=ff6a00&cache_seconds=86400"
+height="180"
+alt="Saksham Sharma GitHub Stats"
+/>
 
-### ⭐ Total Stars Earned
+<img 
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=SakshamSharma3006-Learner&layout=compact&langs_count=8&hide_border=true&bg_color=000000&title_color=ff6a00&text_color=ffffff&cache_seconds=86400"
+height="180"
+alt="Top Languages"
+/>
 
-**0**
-
----
-
-### ⏱️ Total Commits
-
-**100+**
-
----
-
-### 🔀 Total PRs
-
-**0**
-
----
-
-### 🕐 Total Issues
-
-**0**
-
----
-
-### 🎯 Contributed to
-
-**Yes**
-
-</td>
-
-<td width="34%" align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=SakshamSharma3006-Learner&show_icons=true&hide_border=true&bg_color=000000&title_color=ff6a00&text_color=ffffff&icon_color=ff6a00&include_all_commits=true"/>
-
-<br>
-
-### 🟠 Active Coder
-
-</td>
-
-<td width="33%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SakshamSharma3006-Learner&layout=compact&hide_border=true&bg_color=000000&title_color=ff6a00&text_color=ffffff"/>
-
-</td>
-
-</tr>
-</table>
+</p>
 
 ---
 
@@ -223,7 +379,90 @@ Plan your trips easily with a simple and user-friendly interface.
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=SakshamSharma3006-Learner&theme=dark&hide_border=true&background=000000&ring=ff6a00&fire=ff6a00&currStreakLabel=ff6a00"/>
+<img
+src="https://streak-stats.demolab.com/?user=SakshamSharma3006-Learner&theme=dark&hide_border=true&background=000000&ring=ff6a00&fire=ff6a00&currStreakLabel=ff6a00&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=999999"
+alt="GitHub Streak"
+/>
+
+</p>
+
+---
+
+# 📈 GitHub Activity:
+
+<p align="center">
+
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=SakshamSharma3006-Learner&bg_color=000000&color=ffffff&line=ff6a00&point=ffffff&area=true&hide_border=true"
+alt="GitHub Activity Graph"
+/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake:
+
+<p align="center">
+
+<img
+src="https://raw.githubusercontent.com/SakshamSharma3006-Learner/SakshamSharma3006-Learner/output/github-contribution-grid-snake-dark.svg"
+alt="GitHub Contribution Snake"
+/>
+
+</p>
+
+---
+
+# 🏆 GitHub Achievements:
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=SakshamSharma3006-Learner&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&column=7" alt="GitHub Trophies"/>
+
+</p>
+
+---
+
+# 💡 Currently Learning:
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/JavaScript-ff6a00?style=for-the-badge&logo=javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git%20%26%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+
+</p>
+
+---
+
+# 🎯 Goals:
+
+- 🚀 Become a Full Stack Developer
+- 💻 Improve Front-End Development skills
+- 🐍 Strengthen Python programming
+- 🧠 Practice DSA and problem solving
+- 🔥 Build real-world projects
+- 📚 Keep learning new technologies
+- 💼 Prepare for internships and placements
+
+---
+
+# ⚡ Fun Fact:
+
+> **Every expert was once a beginner.**
+
+---
+
+# 🔥 GitHub Streak:
+
+<p align="center">
+
+<img 
+src="https://streak-stats.demolab.com/?user=SakshamSharma3006-Learner&theme=dark&hide_border=true&background=000000&ring=ff6a00&fire=ff6a00&currStreakLabel=ff6a00"
+alt="GitHub Streak"
+/>
 
 </p>
 
@@ -231,6 +470,12 @@ Plan your trips easily with a simple and user-friendly interface.
 
 <p align="center">
 
-### <span style="color:#ff6a00">“</span> <i>Code. Learn. Build. Repeat.</i> <span style="color:#ff6a00">”</span>
+## <span style="color:#ff6a00">“</span> <i>Code. Learn. Build. Repeat.</i> <span style="color:#ff6a00">”</span>
+
+</p>
+
+<p align="center">
+
+### 🧡 Thanks for visiting my profile!
 
 </p>
