@@ -112,7 +112,15 @@ A responsive weather application that displays weather information with a clean 
 
 <br>
 
-`HTML` • `CSS` • `JavaScript`
+<p align="center">
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+
+</p>
 
 <br><br>
 
@@ -134,7 +142,15 @@ A fun and interactive two-player Tic Tac Toe game built using JavaScript.
 
 <br>
 
-`HTML` • `CSS` • `JavaScript`
+<p align="center">
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+
+</p>
 
 <br><br>
 
@@ -160,7 +176,15 @@ A responsive stopwatch web application with start, pause, reset and lap features
 
 <br>
 
-`HTML` • `CSS` • `JavaScript`
+<p align="center">
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+
+</p>
 
 <br><br>
 
@@ -182,7 +206,15 @@ A modern responsive navigation menu with smooth animations and interactive eleme
 
 <br>
 
-`HTML` • `CSS` • `JavaScript`
+<p align="center">
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+
+</p>
 
 <br><br>
 
@@ -204,7 +236,15 @@ A simple and user-friendly travel planning interface for organizing trips easily
 
 <br>
 
-`HTML` • `CSS` • `JavaScript`
+<p align="center">
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+
+</p>
 
 <br><br>
 
@@ -230,7 +270,15 @@ A clean and responsive calculator with an attractive user interface and interact
 
 <br>
 
-`HTML` • `CSS` • `JavaScript`
+<p align="center">
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+
+</p>
 
 <br><br>
 
@@ -252,7 +300,15 @@ A simple interactive Rock Paper Scissors game with JavaScript-based game logic.
 
 <br>
 
-`HTML` • `CSS` • `JavaScript`
+<p align="center">
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+
+</p>
 
 <br><br>
 
@@ -274,7 +330,15 @@ An interactive three-level technology quiz designed to test programming and tech
 
 <br>
 
-`HTML` • `CSS` • `JavaScript`
+<p align="center">
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+
+</p>
 
 <br><br>
 
@@ -300,7 +364,14 @@ A clean HTML form project demonstrating different form controls and user input e
 
 <br>
 
-`HTML` • `CSS`
+<p align="center">
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+
+
+</p>
 
 <br><br>
 
@@ -322,7 +393,15 @@ A basic student management interface designed to practice web development concep
 
 <br>
 
-`HTML` • `CSS` • `JavaScript`
+<p align="center">
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+
+</p>
 
 <br><br>
 
@@ -344,7 +423,15 @@ A simple task management application for adding, completing and managing daily t
 
 <br>
 
-`HTML` • `CSS` • `JavaScript`
+<p align="center">
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+
+</p>
 
 <br><br>
 
