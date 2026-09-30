@@ -450,26 +450,6 @@ A simple task management application for adding, completing and managing daily t
 
 ---
 
-# 📊 GitHub Stats:
-
-<p align="center">
-
-<img 
-src="https://github-readme-stats.vercel.app/api?username=SakshamSharma3006-Learner&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=000000&title_color=ff6a00&text_color=ffffff&icon_color=ff6a00&cache_seconds=86400"
-height="180"
-alt="Saksham Sharma GitHub Stats"
-/>
-
-<img 
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=SakshamSharma3006-Learner&layout=compact&langs_count=8&hide_border=true&bg_color=000000&title_color=ff6a00&text_color=ffffff&cache_seconds=86400"
-height="180"
-alt="Top Languages"
-/>
-
-</p>
-
----
-
 ## 🐍 Contribution Snake:
 
 <p align="center">
