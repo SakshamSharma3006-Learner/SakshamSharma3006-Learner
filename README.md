@@ -470,32 +470,6 @@ alt="Top Languages"
 
 ---
 
-# 🔥 GitHub Streak:
-
-<p align="center">
-
-<img
-src="https://streak-stats.demolab.com/?user=SakshamSharma3006-Learner&theme=dark&hide_border=true&background=000000&ring=ff6a00&fire=ff6a00&currStreakLabel=ff6a00&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=999999"
-alt="GitHub Streak"
-/>
-
-</p>
-
----
-
-# 📈 GitHub Activity:
-
-<p align="center">
-
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=SakshamSharma3006-Learner&bg_color=000000&color=ffffff&line=ff6a00&point=ff6a00&area=true&area_color=ff6a00&hide_border=true&custom_title=Saksham%20Sharma's%20GitHub%20Activity"
-alt="Saksham Sharma GitHub Activity Graph"
-/>
-
-</p>
-
----
-
 ## 🐍 Contribution Snake:
 
 <p align="center">
@@ -517,16 +491,6 @@ alt="Saksham Sharma GitHub Activity Graph"
   />
 
 </picture>
-
-</p>
-
----
-
-# 🏆 GitHub Achievements:
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=SakshamSharma3006-Learner&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&column=7" alt="GitHub Trophies"/>
 
 </p>
 
