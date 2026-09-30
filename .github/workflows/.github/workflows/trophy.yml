@@ -1,0 +1,33 @@
+name: Generate GitHub Trophies
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Generate Trophy
+        uses: ryo-ma/github-profile-trophy@master
+        with:
+          username: SakshamSharma3006-Learner
+          output_path: dist/trophy.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          theme: darkhub
+
+      - name: Push Trophy to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
